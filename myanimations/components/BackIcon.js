@@ -7,7 +7,7 @@ const BackIcon = ({ onPress }) => {
     <AntDesign
       name="arrowleft"
       size={24}
-      style={{ padding: 12 }}
+      style={{ padding: 12, marginTop: 50 }}
       color="#333"
       onPress={onPress}
     />

@@ -1,82 +1,82 @@
 const DATA = [
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990723.png",
+        title:"Jellyfish",
+        id:"2990723"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990763.png",
+        title:"WoodCutter",
+        id:"2990763"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990697.png",
+        title:"Mockito",
+        id:"2990697"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990651.png",
+        title:"Parrot",
+        id:"2990651"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990711.png",
+        title:"Baseball",
+        id:"2990711"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990561.png",
+        title:"Hat",
+        id:"2990561"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990522.png",
+        title:"House",
+        id:"2990522"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990579.png",
+        title:"Shirt",
+        id:"2990579"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990718.png",
+        title:"Water Jug",
+        id:"2990718"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990724.png",
+        title:"Brush",
+        id:"2990724"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990757.png",
+        title:"Gas Stove",
+        id:"2990757"
     },
     {
-        imageuri:"https://cdn-icons.flaticon.com/png/512/5026/premium/5026246.png?token=exp=1660105162~hmac=470d503ac36e5cadcc1f3828568a3ef1",
-        title:"Ukulele",
-        id:"5026246"
+        imageUri:"https://cdn-icons-png.flaticon.com/512/2990/2990773.png",
+        title:"Leafs",
+        id:"2990773"
     },
 ]
 
 const SLIDER_DATA = [
     {
-        title:"SUnny Days",
+        title:"Dope Days",
         color:"turquoise",
     },
     {
-        title:"SUnny Days",
-        color:"turquoise",
+        title:"Chill Nights",
+        color:"springgreen",
     },
     {
-        title:"SUnny Days",
-        color:"turquoise",
+        title:"Good Company",
+        color:"skyblue",
     },
     {
-        title:"SUnny Days",
-        color:"turquoise",
+        title:"Mellow Vibes",
+        color:"orchid",
     },
 ]
 

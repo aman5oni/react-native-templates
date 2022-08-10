@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-navigation-shared-element": "^3.1.3"
+  }
+}
